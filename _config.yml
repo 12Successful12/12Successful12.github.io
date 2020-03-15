@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统  评论显示的头像和名字在 DISQUS =》Profile。Website是Github博客的地址。
 # Disqus（https://disqus.com/）注册账号，
- disqus_username: 12successful12
+disqus_username: 12successful12
 
 # Gitalk
 gitalk:
